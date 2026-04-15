@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo snap install rubymine --classic
+# sudo snap install rubymine --classic
